@@ -1,0 +1,9 @@
+UPD is a simple layer 4 protocol
+
+it has a destination port, a source port, a bunch of data you can put the data in
+
+stateless, does not have any prior knowledge, do not need a connection established
+
+client and sever, they don't need to know each other, just send packets
+
+use case: video streaming, web RTC, and DNS........
